@@ -1,0 +1,19 @@
+@media 
+(max-width: 500px) {
+  #main-nav{
+    flex-direction: column;
+    align-items: center;
+
+    li{
+      padding: 1rem;
+    }
+  }
+    #header {
+      &-home {
+        background: $bg-mainmobile no-repeat center right / cover;
+        height: 700px;
+        background-position: center;
+      }
+    }
+  }
+

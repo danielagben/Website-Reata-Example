@@ -1,0 +1,14 @@
+{
+    "name": "ws1",
+    "version": "1.0.0",
+    "description": "connect fa website",
+    "scripts": {
+        "watch-scss": "node-sass  -w scss/ -o css/"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node-modules": "^1.0.1"
+    }
+}
